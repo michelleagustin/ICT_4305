@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="parking.CustomerTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2025-10-06T02:58:24" hostname="Mac.lan" time="0.003">
+  <properties/>
+  <testcase name="testRegisterCreatesCarAndAddsToList()" classname="parking.CustomerTest" time="0.001"/>
+  <testcase name="testConstructorInitializesFields()" classname="parking.CustomerTest" time="0.0"/>
+  <testcase name="testRegisterAssignsPermitAndExpiration()" classname="parking.CustomerTest" time="0.001"/>
+  <testcase name="testToStringIncludesNameAndId()" classname="parking.CustomerTest" time="0.0"/>
+  <testcase name="testGetCarsReturnsDefensiveCopy()" classname="parking.CustomerTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
