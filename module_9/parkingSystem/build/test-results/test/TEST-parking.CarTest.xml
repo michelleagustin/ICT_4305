@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="parking.CarTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2025-10-06T02:58:24" hostname="Mac.lan" time="0.006">
+  <properties/>
+  <testcase name="equalsAndHashCodeBasedOnLicense()" classname="parking.CarTest" time="0.003"/>
+  <testcase name="notEqualWhenLicenseDiffers()" classname="parking.CarTest" time="0.0"/>
+  <testcase name="equalsNullAndDifferentClass()" classname="parking.CarTest" time="0.001"/>
+  <testcase name="hashCodeIsStableAcrossCalls()" classname="parking.CarTest" time="0.0"/>
+  <testcase name="toStringContainsKeyFields()" classname="parking.CarTest" time="0.0"/>
+  <testcase name="constructorAndGettersWork()" classname="parking.CarTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

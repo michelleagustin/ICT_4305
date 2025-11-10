@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="parking.ParkingLotTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2025-10-06T02:58:24" hostname="Mac.lan" time="0.003">
+  <properties/>
+  <testcase name="testGetParkedCarsUnmodifiable()" classname="parking.ParkingLotTest" time="0.001"/>
+  <testcase name="testEntryDuplicateCarThrows()" classname="parking.ParkingLotTest" time="0.0"/>
+  <testcase name="testConstructorAndGetters()" classname="parking.ParkingLotTest" time="0.0"/>
+  <testcase name="testToStringContainsInfo()" classname="parking.ParkingLotTest" time="0.0"/>
+  <testcase name="testEntryFullLotThrows()" classname="parking.ParkingLotTest" time="0.0"/>
+  <testcase name="testEntryAddsCar()" classname="parking.ParkingLotTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
